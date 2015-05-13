@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "nobody_rev_jsp",
-=======
-  "name": "nobody",
->>>>>>> faad65a8fba4db4d9d02ab545964a1a20c93dd79
   "version": "1.0.0",
   "devDependencies": {
     "grunt": "^0.4.5",
