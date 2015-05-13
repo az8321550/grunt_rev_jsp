@@ -10,7 +10,7 @@
     "grunt-contrib-htmlmin": "^0.3.0",
     "grunt-contrib-uglify": "^0.5.1",
     "grunt-rev": "^0.1.0",
-    "grunt-usemin": "^2.3.0",
+    "grunt-usemin-jsp": "^1.0.1",
     "load-grunt-tasks": "^0.4.0",
     "time-grunt": "^0.4.0"
   }

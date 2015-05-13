@@ -49,6 +49,9 @@ module.exports = function (grunt) {
             }
         },
         usemin: {
+            options:{
+                findPath:""
+            },
             html: ['<%= config.dist %>/**/*.{jsp,html}'],
             css: ['<%= config.dist %>/**/*.css']
         },
